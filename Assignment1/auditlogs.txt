@@ -1,0 +1,40 @@
+
+File Report
+===============================================
+# date time file syscall success exe auid event
+===============================================
+1. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 121
+2. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 120
+3. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 122
+4. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 123
+5. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 124
+6. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 125
+7. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 126
+8. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 127
+9. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 128
+10. 12/03/20 12:04:41 . openat yes /usr/bin/vim.basic gary 129
+11. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 130
+12. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 131
+13. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 132
+14. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 133
+15. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 134
+16. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 135
+17. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 136
+18. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 137
+19. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 138
+20. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 139
+21. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 140
+22. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 141
+23. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 142
+24. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 143
+25. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 144
+26. 12/03/20 12:04:42 .newfile.txt.swp openat yes /usr/bin/vim.basic gary 145
+27. 12/03/20 12:04:42 .newfile.txt.swx openat yes /usr/bin/vim.basic gary 146
+28. 12/03/20 12:04:42 .newfile.txt.swx unlink yes /usr/bin/vim.basic gary 147
+29. 12/03/20 12:04:42 .newfile.txt.swp unlink yes /usr/bin/vim.basic gary 148
+30. 12/03/20 12:04:42 .newfile.txt.swp openat yes /usr/bin/vim.basic gary 149
+31. 12/03/20 12:04:42 . openat yes /usr/bin/vim.basic gary 150
+32. 12/03/20 12:04:43 . openat yes /usr/bin/vim.basic gary 151
+33. 12/03/20 12:04:59 /var/www/html/Intranet/.newfile.txt.swp unlink yes /usr/bin/vim.basic gary 153
+34. 12/03/20 12:04:59 newfile.txt openat yes /usr/bin/vim.basic gary 152
+35. 12/03/20 12:05:05 . openat yes /usr/bin/ls gary 154
